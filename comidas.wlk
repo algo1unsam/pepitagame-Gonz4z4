@@ -1,3 +1,4 @@
+import pepita.*
 import wollok.game.*
 
 object manzana {
@@ -17,6 +18,5 @@ object alpiste {
 	method position() = game.at(2, 2)
 
 	method energiaQueOtorga() = 70
-
 }
 
